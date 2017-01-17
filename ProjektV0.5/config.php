@@ -53,5 +53,6 @@ $con=mysqli_connect("$server", "$korisnik", "$lozinka", "iwa_2008_kz_projekt");
 	}
 	echo "</table>";
 	mysqli_close($mysqli);
+		dodan test na liniji 56
 */
 ?>
