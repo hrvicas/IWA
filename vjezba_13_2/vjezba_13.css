@@ -1,0 +1,8 @@
+table.vanjska { border: 2px groove darked; }
+table.formular { background: #e0e0e0; color: red; }
+td.labela { background: #e0e0e0; color: red; text-align: right; font-size: 12px; }
+td.unos { background: #e0e0e0; color: blue; font-size: 12px; }
+a:link {text-decoration: none;font-size: 13px;font-weight: bold;}
+a:visited {text-decoration: none;font-size: 13px;font-weight: bold;}
+a:hover {text-decoration: none;font-size: 13px;font-weight: bold;}
+a:active {text-decoration: none;font-size: 13px;font-weight: bold;}

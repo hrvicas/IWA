@@ -1,0 +1,9 @@
+localhost
+vzr_iwa2004_01
+root
+
+
+1. zapis je server
+2. zapis je baza podataka
+3. zapis je korisnicko ime
+4. zapis je lozinka
